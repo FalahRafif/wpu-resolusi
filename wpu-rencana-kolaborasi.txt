@@ -3,6 +3,7 @@ Rencana Kolaborasi
   * kolaborasi pembuatan konten video
   * kolaborasi dalam project mendatang
    ^ CodeIgniter
+   ^ .Net
 - kolaborasi hal-hal yang experimental  
 - itu ajang kolaborasi
   * Ajang Programer 2077
