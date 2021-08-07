@@ -1,10 +1,12 @@
 Rencana Kolaborasi 
 - kolaborasi dengan Framework Indonesia
   * kolaborasi pembuatan konten video
-  * kolaborasi dalam project mendatang
+   ^ Python
    ^ CodeIgniter
    ^ .Net
-- kolaborasi hal-hal yang experimental  
-- itu ajang kolaborasi
-  * Ajang Programer 2077
+- kolaborasi hal-hal yang experimental
+ * membuat project berhubungan dengan architecture
+- ikut ajang kolaborasi
+ * Ajang Programer 2077
 - kolaborasi dengan subcriber 
+
