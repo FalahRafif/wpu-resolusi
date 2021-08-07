@@ -1,5 +1,9 @@
 Rencana Kolaborasi 
 - kolaborasi dengan Framework Indonesia
   * kolaborasi pembuatan konten video
+  * kolaborasi dalam project mendatang
+   ^ CodeIgniter
 - kolaborasi hal-hal yang experimental  
 - itu ajang kolaborasi
+  * Ajang Programer 2077
+- kolaborasi dengan subcriber 
