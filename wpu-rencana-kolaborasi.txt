@@ -1,5 +1,7 @@
 Rencana Kolaborasi 
 - kolaborasi dengan Framework Indonesia
   * kolaborasi pembuatan konten video
+   ^ Python
+   ^ Flutter
 - kolaborasi hal-hal yang experimental  
-- itu ajang kolaborasi
+ * membuat project berhubungan dengan architecture
